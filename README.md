@@ -1,8 +1,10 @@
-Updated and Created CSL documents for importing into Zotero
+#Updated and Created CSL documents for importing into Zotero
 
 Bulletin of Marine Science
--Updated to fix the journal abbreviation variable
--implemented editors into "chapter" reference type.
+<ol>
+<li>Updated to fix the journal abbreviation variable</li>
+<li>implemented editors into "chapter" reference type</li>
+</ol>
 
 Gulf and Caribbean Fisheries Institute
--Created csl based on specifcations for submiussion into GCFI
+<li>Created csl based on specifcations for submiussion into GCFI</li>
