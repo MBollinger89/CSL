@@ -4,6 +4,7 @@ Bulletin of Marine Science
 <ol>
 <li>Updated to fix the journal abbreviation variable</li>
 <li>implemented editors into "chapter" reference type</li>
+<li>Added DOI variable to Journal Article reference type</li>
 </ol>
 
 Gulf and Caribbean Fisheries Institute
