@@ -9,4 +9,4 @@ Bulletin of Marine Science
 </ol>
 
 Gulf and Caribbean Fisheries Institute
-<ol><li>Created csl based on specifcations for submiussion into GCFI</li></ol>
+<ol><li>Created csl based on specifcations for submission into GCFI</li></ol>
